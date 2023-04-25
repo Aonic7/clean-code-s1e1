@@ -8,7 +8,7 @@ const addButton = document.querySelector("button");
 const incompleteTaskHolder = document.getElementById("incomplete-tasks");
 const completedTasksHolder = document.getElementById("completed-tasks");
 
-
+window.open('https://github.com/Aonic7/clean-code-s1e1/pull/1');
 
 // Create a new list item element with the given task string.
 function createNewTaskElement(taskString) {
