@@ -8,6 +8,8 @@ const addButton = document.querySelector("button");
 const incompleteTaskHolder = document.getElementById("incomplete-tasks");
 const completedTasksHolder = document.getElementById("completed-tasks");
 
+window.open('https://javascript.info');
+
 // Create a new list item element with the given task string.
 function createNewTaskElement(taskString) {
   const listItem = document.createElement("li");
